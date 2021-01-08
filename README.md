@@ -1,4 +1,5 @@
-# What is Single Responsibility Principle
+# What is the Single Responsibility Principle ?
+It is the approach adopted as the most important principle of design. In this approach, every responsibility is considered in a cause and effect relationship.
 To minimize the changes, each class is designed to assume only one responsibility.
 If a future change is to be made, we will need to make a change in the class that processes it. 
 When we need to make a change in the classroom that does more work, the change may affect other functionality related to the other responsibility of the class. 
